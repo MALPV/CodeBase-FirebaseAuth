@@ -10,7 +10,7 @@ _Para compilar el proyecto y probar la aplicación es recomendable tener instala
 
 ## ScreenShot 📲
 
-![View Auth](https://github.com/MALPV/CodeBase-FbAuth/blob/main/screenshots/Screenshot_auth.png)
+![View Auth](https://github.com/MALPV/CodeBase-FirebaseAuth/blob/main/screenshots/Screenshot_auth.png)
 
 ## Construido con 🛠️
 
